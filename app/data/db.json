@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Tulisan 1",
+      "body": "lorem inpusm"
+    },
+    {
+      "id": 2,
+      "title": "Tulisan 1",
+      "body": "lorem inpusm dolor (fucking update 6)"
+    }
+  ]
+}
